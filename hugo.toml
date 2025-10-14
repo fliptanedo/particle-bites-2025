@@ -1,5 +1,5 @@
 # Basic config
-baseURL = "https://example.com"
+baseURL = "https://fliptanedo.github.io/particle-bites-2025/"
 theme = "hugo-simple"
 defaultContentLanguage = "en"
 languageCode = "en"                # zh-Hans
